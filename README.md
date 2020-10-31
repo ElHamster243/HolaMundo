@@ -1,5 +1,4 @@
 # HolaMundo
 Práctica grupal
 
-#HolaMundo
-JoseCarlos
+Hola, soy José Carlos
